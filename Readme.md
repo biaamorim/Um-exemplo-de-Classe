@@ -1,0 +1,3 @@
+Meus primeiros passos desenvolvendo em Typescript. Praticando...
+
+
