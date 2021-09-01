@@ -1,0 +1,16 @@
+{
+    "name": "exclasses",
+    "version": "1.0.0",
+    "description": "exercicio de classes",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Bianca",
+    "license": "ISC",
+    "dependencies": {
+        "@types/node": "^16.7.4",
+        "ts-node": "^10.2.1",
+        "typescript": "^4.4.2"
+    }
+}
